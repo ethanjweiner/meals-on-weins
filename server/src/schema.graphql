@@ -36,7 +36,6 @@ type Meal {
 type Recipe {
   link: String
   notes: String
-  meal: Meal!
 }
 
 type Query {
